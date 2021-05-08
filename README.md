@@ -12,10 +12,13 @@ $ python blockchain.py
 ### Working
 
 ![](Media/server.png)
-**Server Up and running**
+
+
+<p align="center">`**Server Up and running**`</p>
+
 
 
 ![](Media/mine_requests.png)
 
 
-**Making Mine requests to the server**
+<p>`**Making Mine requests to the server**`</p>
