@@ -14,5 +14,8 @@ $ python blockchain.py
 ![](Media/server.png)
 **Server Up and running**
 
+
 ![](Media/mine_requests.png)
+
+
 **Making Mine requests to the server**
