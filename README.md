@@ -1,5 +1,7 @@
-# Blockchain_from_scratch
-This repository contains Implementation of blockchain from scratch using python
+# Blockchain from scratch
+
+## What Is A Blockchain?
+The system that Bitcoin relies upon — a growing list of records (i.e. blocks) that are linked to one another — is known as a blockchain. Bitcoin was the first successful application of this system, and shortly after its rise in popularity, other cryptocurrencies were founded on the same principles. This system, however, is not restricted to storing financial information. Rather, the type of data being stored is inconsequential to and independent of the blockchain network.
 
 
 ### Steps:
