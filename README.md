@@ -9,16 +9,16 @@ $ cd Blockchain_from_scratch
 $ python blockchain.py
 ```
 
-### Working
+### Working:
 
 ![](Media/server.png)
 
 
-<p align="center">`Server Up and running`</p>
+<p align="center"><b>Server Up and running<b></p>
 
 
 
 ![](Media/mine_requests.png)
 
 
-<p align="center">`Making Mine requests to the server`</p>
+<p align="center"><b>Making Mine requests to the server<b></p>
